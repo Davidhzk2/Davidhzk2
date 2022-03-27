@@ -1,13 +1,16 @@
 ### Hi, I´m David Herrera 👋💻
 
-## About
-  - Software Developer 
-growth and inprove my  develop skills with web
-## Skills 
+### About me 
+i am a software developer , ilike to  learn about technology and programing languajes,growth and inprove my develop skills with web and movile apps
 
+###  Skills 
 
+i have knowledge about diferents tecnologies as:
+HTML, CSS, JAVASCRIPT, PYHTON, ANDROID
+
+### Contact
 https://github-readme-stats.vercel.app/api?username=Davidhzk2
- You can find me 📌:
+ **You can find me 📌:**
 - [Linkedin]()
 - [Instagram]()
 - [CodePen](https://codepen.io/davidhzk2)
