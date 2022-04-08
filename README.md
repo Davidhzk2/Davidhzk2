@@ -11,8 +11,7 @@ HTML, CSS, JAVASCRIPT, ANGULAR, PYHTON, SQL, GIT, ANDROID
 ### Contact
 https://github-readme-stats.vercel.app/api?username=Davidhzk2
  **You can find me 📌:**
-- [Linkedin]()
-- [Instagram]()
+- [Linkedin](https://www.linkedin.com/in/david-herrera-zapata/)
 - [CodePen](https://codepen.io/davidhzk2)
 
 
