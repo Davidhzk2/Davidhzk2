@@ -1,12 +1,12 @@
 ### Hi, I´m David Herrera 👋💻
 
 ### About me 
-I am a software developer, i like to  learn about technology and programing languajes, growth and inprove my develop skills with web, Internet of Things and movile apps.
+I am a Web Developer, i like to  learn about technology and programing languajes, growth and inprove my develop skills with web, Internet of Things and movile apps.
 
 ###  Skills 
 
 I have knowledge about diferents tecnologies as:
-HTML, CSS, JAVASCRIPT, ANGULAR, PYHTON, SQL, GIT, ANDROID
+HTML, CSS,PYTHON, JAVASCRIPT, ANGULAR,SQL, GIT, ANDROID
 
 ### Contact
 https://github-readme-stats.vercel.app/api?username=Davidhzk2
