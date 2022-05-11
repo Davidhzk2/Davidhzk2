@@ -1,12 +1,12 @@
-### Hi, I´m David Herrera 👋💻
+### Hi, my name is David Herrera 👋
+#### I am a Web Developer Fullstack💻
 
 ### About me 
 I am a Web Developer, i like to  learn about technology and programing languajes, growth and inprove my develop skills with web, Internet of Things and movile apps.
 
 ###  Skills 
 
-I have knowledge about diferents tecnologies as:
-HTML, CSS,PYTHON, JAVASCRIPT, ANGULAR,SQL, GIT, ANDROID
+HTML, CSS3, PYTHON, JAVASCRIPT, ANGULAR, SQL, GIT, ANDROID
 
 ### Contact
 https://github-readme-stats.vercel.app/api?username=Davidhzk2
